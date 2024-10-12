@@ -1,5 +1,6 @@
 # Getting Started
 
+
 !!! tip
     This guide assumes you have a grounding in the tools that Argo CD is based on. Please read [understanding the basics](understand_the_basics.md) to learn about these tools.
 
